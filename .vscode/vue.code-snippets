@@ -1,0 +1,22 @@
+{
+  "vue 파일 생성 기본 스타일": {
+    "prefix": "nv",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "  <div>",
+      "",
+      "  </div>",
+      "</template>",
+      "",
+      "",
+      "<style scoped lang=\"scss\">",
+      "",
+      "</style>"
+    ],
+    "description": "vue 파일 생성 기본 스타일"
+  }
+}
