@@ -1,5 +1,5 @@
 #!/bin/sh
 cd ../
 mkdir output
-cp -R ./HalamLee/Seollebori-Front/* ./output
-cp -R ./output ./HalamLee/Seollebori-Front/
+cp -R ./snowball-crew/Seollebori-Front/* ./output
+cp -R ./output ./snowball-crew/Seollebori-Front/
